@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Taller3",
+            "group": "AE2025",
+            "database": "taller3",
+            "username": "JuanJose",
+            "password": "123456"
+        }
+    ]
+}
